@@ -1,0 +1,110 @@
+[
+	{
+		"id": "cezar",
+		"file_name": "cezar.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "cezar",
+		"file_name": "cezar-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "adriano",
+		"file_name": "adriano.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "adriano",
+		"file_name": "adriano-match.gif",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "labegz",
+		"file_name": "labegz.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "labegz",
+		"file_name": "labegz-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "ito",
+		"file_name": "ito.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "ito",
+		"file_name": "ito-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "joao",
+		"file_name": "joao.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "joao",
+		"file_name": "joao-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "tiago",
+		"file_name": "tiago.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "tiago",
+		"file_name": "tiago-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "scola",
+		"file_name": "scola.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "scola",
+		"file_name": "scola-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "kaito",
+		"file_name": "kaito.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "kaito",
+		"file_name": "kaito-match.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "fabiano",
+		"file_name": "fabiano.png",
+		"is_selected": false,
+		"matched": false
+	},
+	{
+		"id": "fabiano",
+		"file_name": "fabiano-match.png",
+		"is_selected": false,
+		"matched": false
+	}
+]
