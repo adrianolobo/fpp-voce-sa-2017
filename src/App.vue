@@ -60,8 +60,7 @@ export default {
       this.stage = 'game';
       this.isLoading = true;
       setTimeout(() => {
-        console.log(_);
-        // this.cards = _.shuffle(cards);
+        this.cards = _.shuffle(cards);
         this.setSelectedCards(true);
         setTimeout(() => {
           this.setSelectedCards(false);
