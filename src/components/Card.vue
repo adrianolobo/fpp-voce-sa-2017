@@ -37,7 +37,7 @@
     &_flipped
       transform: rotateY( 180deg )
     &_matched
-      box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(255,130,2,0.7)
+      box-shadow: 0 10px 10px rgba(0,180,54,0.7) !important
     &__back-container
       width: 90%
       height: 90%
