@@ -105,6 +105,9 @@ export default {
   },
   methods: {
     selectCard() {
+      if (this.isSelected) {
+        return;
+      }
       this.$emit('card-selectd', this.card);
     },
   },
